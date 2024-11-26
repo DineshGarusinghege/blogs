@@ -1,7 +1,7 @@
 ---
 title: TIA Certification
 date: 2024-11-15T02:59:53.348Z
-image: 140329456.jpeg
+image: ""
 ---
 <!--StartFragment-->
 
