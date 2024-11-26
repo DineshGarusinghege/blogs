@@ -2,7 +2,7 @@
 [menu]
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "All Blog Posts"
     url = "/posts"
     weight = 10
 
