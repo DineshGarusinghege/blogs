@@ -1,4 +1,3 @@
-title = "orionstellar"
 
 [menu]
   [[menu.main]]
@@ -7,8 +6,4 @@ title = "orionstellar"
     url = "/posts"
     weight = 10
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 20
+
